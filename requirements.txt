@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+httpx
+python-dotenv
+firebase-admin
+pydantic-settings
+pytest
+pydantic[email]
